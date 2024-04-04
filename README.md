@@ -12,7 +12,7 @@ pkg install git
 
 pkg install python
 
-pip install pytube
+pip install -r requirements.sh
 
 git clone https://github.com/AnsariHacker07/YtDownload/
 
